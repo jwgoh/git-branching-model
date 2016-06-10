@@ -14,3 +14,7 @@ Two (non-optimised) ways to find prime numbers.
 
 0.1-alpha
 
+## License
+
+This project is released under [MIT License](http://www.opensource.org/licenses/MIT).
+
